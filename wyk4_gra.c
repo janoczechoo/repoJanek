@@ -19,3 +19,4 @@ int main ( void )
     if( odp == los )
         printf( "Bylo %d prob\n", liczbProb );
 }
+//zmieniam cos
